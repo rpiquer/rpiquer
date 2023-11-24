@@ -3,6 +3,24 @@
 ---
 
 I'm Rubén Piquer, and I'm a soon-to-be web developer. Not much to see here yet, _but just you wait_...
+---
+
+### Languages :loudspeaker:
+* HTML5 :page_facing_up:
+* CSS3 :fireworks:
+* Java :wrench:
+* Javascript/Typescript :scroll:
+
+---
+
+### Other technologies/knowledge :satellite:
+* Spring :leaves:
+* Angular 
+* BEM
+* MySQL
+* AWS
+* Scrum
+
 
 ### Projects :white_check_mark:
 * King's Forge, a project made with some classmates last year. Our first attempt to make a webpage.
